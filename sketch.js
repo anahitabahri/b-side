@@ -185,7 +185,7 @@ function drawText() {
   let descY = circY + titleSize / 2 + 12;
   let descW = 240;
   text(
-    "a listening installation broadcasting the b-sides of my listening life through three radio stations: solo, in love, in community.",
+    "a listening installation broadcasting parts of my listening life that I've stumbled upon through three radio stations: solo, in love, in community.",
     descX, descY, descW
   );
 }
